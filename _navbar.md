@@ -1,4 +1,4 @@
-- [Gitee](https://gitee.com/moxi159753/mogu_blog_v2)
-- [Github](https://github.com/moxi624/mogu_blog_v2)
--  [演示](http://moguit.cn/#/)
+- [支持C++、Java、Go三种语言的力扣刷题资料](https://t.1yb.co/o52u)
+- [Github](https://github.com/forthespada)
+-  [联系我](http://moguit.cn/#/)
 
