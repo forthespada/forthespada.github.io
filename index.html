@@ -10,6 +10,17 @@
     content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <!-- Theme: Simple -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <!-- 黑色主题 
+   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css">
+  -->
+  
+
+
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dolphin.css" disabled="">
+
+<!-- Theme: 轻度暗黑主题 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+-->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
   <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
@@ -17,6 +28,15 @@
 
 <body>
   <div id="app">Loading……</div>
+  <div class="aside_container">
+    <div class="advertisement">
+      <div class="Tencent_code">
+        <h4>关注作者公众号</h4>
+        <p style="font-size: 12px;">万千小伙伴陪你一起学</p>
+        <img src="https://cdn.jsdelivr.net/gh/wugenqiang/PictureBed/images01/20200808182633.jpg" alt="EnjoyToShare" />
+      </div>
+    </div>
+</div>
   <script>
     var num = 0;
     mermaid.initialize({
@@ -35,6 +55,16 @@
           }
         }
       },
+	  //全文搜索
+	  search: {
+        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        paths: 'auto',
+        placeholder: '搜索',
+        noData: '找不到结果',
+        // 搜索标题的最大程级, 1 - 6
+        depth: 6,
+      },
+	  
       name: '阿秀的校招笔记',
       repo: 'https://github.com/forthespada',
 
@@ -70,6 +100,8 @@
         }
       ]
     }
+
+
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
@@ -78,7 +110,10 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pangu/lib/pangu.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
   <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <!--cpp代码高亮-->
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-cpp.min.js"></script>
   <script>
     const gitalk = new Gitalk({
       clientID: '92fd7527468c795ed514',
@@ -91,6 +126,13 @@
       distractionFreeMode: false
     })
   </script>
+  
+  <!-- 访问量统计 -->
+<script async src="https://cdn.jsdelivr.net/gh/forthespada/InterviewGuide@master/plugin/js/busuanzi.pure.mini.js"></script>
+  
+    <!--选择主题-->
+	
+
 
 </body>
 
