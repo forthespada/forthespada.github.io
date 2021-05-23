@@ -1,14 +1,23 @@
-<img width="180px" style="border-radius: 10%" bor src="./icon.ico">
-
-## 逆袭进大厂 by 阿秀
-
-## ![star](https://img.shields.io/github/stars/forthespada/InterviewGuide)![](https://img.shields.io/github/forks/forthespada/InterviewGuide)
 
 
+![icon](icon.ico)
 
-### [开始阅读](./README.md)   [Github](https://github.com/forthespada/InterviewGuide)
+## CS & InterviewGuide
+
+- 你只管努力，剩下的交给时间就好，我就是活生生的例子
+
+<img src="https://img.shields.io/github/stars/forthespada/InterviewGuide" data-origin="https://img.shields.io/github/stars/forthespada/InterviewGuide" alt=""> 
+<img src="https://img.shields.io/github/forks/forthespada/InterviewGuide" data-origin="https://img.shields.io/github/forks/forthespada/InterviewGuide" alt="">
+
+<img src="https://img.shields.io/badge/version-v2.0.0-green.svg" data-origin="https://img.shields.io/badge/version-v2.0.0-green.svg" alt=""> 
+<img src="https://img.shields.io/github/license/wugenqiang/NoteBook" data-origin="https://img.shields.io/github/license/wugenqiang/NoteBook" alt="">
 
 
 
-![color](#fff)
+
+<br>
+
+[开始阅读](/README.md) [GitHub](https://github.com/forthespada)
+
+<!-- 背景色 -->
 
