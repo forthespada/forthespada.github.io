@@ -2,7 +2,7 @@
 
 ![icon](icon.ico)
 
-## CS & InterviewGuide
+## 阿秀的校招笔记，它还有个名字叫做《逆袭进大厂》
 
 - 你只管努力，剩下的交给时间就好，我就是活生生的例子
 
@@ -17,7 +17,7 @@
 
 <br>
 
-[开始阅读](/README.md) [GitHub](https://github.com/forthespada)
+[开始阅读](/README.md) [GitHub](https://github.com/forthespada/InterviewGuide)
 
 <!-- 背景色 -->
 

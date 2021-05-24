@@ -1,3 +1,3 @@
-[返回](./)
+[返回](./README.md)
 
 LeetCode

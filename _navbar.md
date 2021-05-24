@@ -1,4 +1,4 @@
-- [返回主页](./)
+- [返回主页](./README.md)
 - [校招准备](./README.md#校招准备)
   - [简历很重要](Doc/Prepare/简历很重要.md)
   - [了解校招](Doc/Prepare/了解校招.md)
@@ -13,7 +13,7 @@
   - [技术面与HR面](Doc/Knowledge/技术面与HR面/技术面与HR面.md)
   - [未完待续.....](#secondninth)
 
-- [免费资源](./README.md#免费资源)
+- [免费资源](Doc/免费资源/Download.md)
 
 - [关于阿秀](Doc/Other/ContactMe.md)
 
