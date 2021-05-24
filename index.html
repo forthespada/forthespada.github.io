@@ -8,15 +8,43 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <!-- Adsense 资源投放 -->
-  <script data-ad-client="ca-pub-1890271224952559" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script data-ad-client="ca-pub-1890271224952559" async src="./plugin/js/adsbygoogle.js"></script>
 
   <!-- 谷歌站点收录 -->
   <meta name="google-site-verification" content="qTFCf1hJ275saQ7H1kin5t2DVpznBKAj0Gi50XMOVMo" />
   <!-- 百度站点收录-->
   <meta name="baidu-site-verification" content="SZyWUIzWiU" />
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+ <link rel="stylesheet" href="./plugin/css/theme-simple.css">
 
  <style>
+ 
+  /*代码块头部图标 start*/
+    .markdown-section pre:before {
+      content: '';
+      display: block;
+      background: url(./source/imgs/codetitle.png);
+      height: 0px;
+      background-size: 40px;
+      background-repeat: no-repeat;
+      background-color: #1C1C1C;
+      background-position: 10px 10px;
+    }
+    /*代码块头部图标 end*/
+
+    .markdown-section pre>code {
+      color: #c0c3c1 !important;
+      font-family: 'Inconsolata', consolas,"PingFang SC", "Microsoft YaHei", monospace !important;
+      background-color: #212121 !important;    //#accfff  #282c34
+      font-size: 15px !important;
+      white-space: pre !important;
+      line-height: 1.5 !important;
+      -moz-tab-size: 4 !important;
+      -o-tab-size: 4 !important;
+      tab-size: 4 !important;
+      /*border-radius: .3em;*/
+    }
+
+ 
   .advertisement {
     position: absolute;
     right: 10px;
@@ -64,7 +92,7 @@
       coverpage: true, // 设置封面
       onlyCover: true, // 只显示封面
       loadSidebar: true, // 设置侧边栏
-      subMaxLevel: 3, //侧边栏显示当前页面的目录(标题)
+      subMaxLevel: 6, //侧边栏显示当前页面的目录(标题)
       loadNavbar: true, // 设置导航栏
       externalLinkTarget: '_blank', //外链打开方式：_blank表示在新标签页中打开
       // 完整配置参数
@@ -75,7 +103,7 @@
         maxAge: 86400000, // 过期时间，单位毫秒，默认一天
       },
       footer: {
-        copy: '<span id="sitetime" style="font-size:14px"></span><br/><span style="font-size:14px">Copyright &copy; 2021 - 至今</span>',
+        copy: '<span id="sitetime" style="font-size:14px"></span><br/><span style="font-size:14px">Copyright &copy; 2021.05.20 - 至今</span>',
         auth: ' <a href="https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g" target="_blank" style="font-size:14px">🏷️ 阿秀 </a> <span style="font-size:14px"> 你只管努力，剩下的交给时间就好，我就是活生生的例子💖！</span>',
         pre: '<hr/>',
         style: 'text-align: left;',
@@ -83,18 +111,18 @@
     }
   </script>
   <!-- 引入搜索模块 -->
-<script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.11.2/plugins/search.min.js"></script>
+<script src="./plugin/js/search.min.js"></script>
 
-<script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.11.2/docsify.js"></script>
+<script src="./plugin/js/docsify.js"></script>
+
 
 
 
 <!-- 添加一键拷贝代码-->
 <script src="//unpkg.com/docsify-copy-code"></script></script>
 
-  <!-- 代码块样式优化-->
-  <script src="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/prism-c.js"></script>
-  <!--<script src="//unpkg.com/prismjs/components/prism-cpp.js"></script>-->
+  <!-- 代码块样式优化
+ <script src="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/prism-c.js"></script>
   <script src="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/prism-cpp.js"></script>
   <script src="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/prism-css.js"></script>
   <script src="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/prism-docker.js"></script>
@@ -114,6 +142,28 @@
   <script src="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/js/prism-yaml.js"></script>
   <script src="https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/src/js/prism-go.js"></script>
   <script src="https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/src/js/prism-matlab.js"></script>
+  -->
+ 
+  <script src="./plugin/prism-c.js"></script>
+  <script src="./plugin/prism-cpp.js"></script>
+  <script src="./plugin/prism-css.js"></script>
+  <script src="./plugin/prism-docker.js"></script>
+  <script src="./plugin/prism-java.js"></script>
+  <script src="./plugin/prism-javascript.js"></script>
+  <script src="./plugin/prism-json.js"></script>
+  <script src="./plugin/prism-latex.js"></script>
+  <script src="./plugin/prism-sql.js"></script>
+  <script src="./plugin/prism-markdown.js"></script>
+  <script src="./plugin/prism-bash.min.js"></script>
+  <script src="./plugin/prism-php.min.js"></script>
+  <script src="./plugin/prism-scala.min.js"></script>
+  <script src="./plugin/prism-nginx.min.js"></script>
+  <script src="./plugin/prism-json.min.js"></script>
+  <script src="./plugin/prism-markdown.min.js"></script>
+  <script src="./plugin/prism-python.js"></script>
+  <script src="./plugin/js/prism-yaml.js"></script>
+  <script src="./plugin/js/prism-go.js"></script>
+  <script src="./plugin/js/prism-matlab.js"></script>
 
   <!-- 添加页脚 -->
   <script src="./plugin/docsify-footer-enh.min.js"></script>
@@ -176,12 +226,12 @@
   
 
 <!-- 访问量统计 -->
-<script async src="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/js/busuanzi.pure.mini.js"></script>
+<script async src="./plugin/js/busuanzi.pure.mini.js"></script>
 
 <!-- 引入 gitalk留言功能 -->
-<link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/gitalk/1.6.2/gitalk.css">
-<script src="https://cdn.bootcdn.net/ajax/libs/gitalk/1.6.2/gitalk.js"></script>
-<script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.11.2/plugins/gitalk.min.js"></script>
+<link rel="stylesheet" href="./plugin/css/gitalk.css">
+<script    src="./plugin/js/gitalk.js"></script>
+<script src="./plugin/js/gitalk.min.js"></script>
 <script>
   const gitalk = new Gitalk({
 		clientID: '92fd7527468c795ed514',
