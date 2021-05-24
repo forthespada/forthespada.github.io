@@ -117,7 +117,6 @@
 
 
 
-
 <!-- 添加一键拷贝代码-->
 <script src="//unpkg.com/docsify-copy-code"></script></script>
 
@@ -224,14 +223,22 @@
     siteTime();
 </script>
   
+ <!-- 分页导航 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
 
 <!-- 访问量统计 -->
 <script async src="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/js/busuanzi.pure.mini.js"></script>
 
-<!-- 引入 gitalk留言功能 -->
+
+<!-- 引入 gitalk留言功能 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/css/gitalk.css">
 <script    src="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/js/gitalk.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/js/gitalk.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/js/gitalk.min.js"></script>-->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+
 <script>
   const gitalk = new Gitalk({
 		clientID: '92fd7527468c795ed514',
