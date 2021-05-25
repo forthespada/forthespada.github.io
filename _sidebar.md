@@ -1,4 +1,4 @@
-[返回首页](./README.md)
+[返回首页](README.md)
 
 [校招准备](./README.md#校招准备)
 

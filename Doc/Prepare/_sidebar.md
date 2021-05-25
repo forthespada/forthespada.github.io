@@ -1,4 +1,4 @@
-[返回](./README.md)
+[返回](README.md)
 
 校招准备
 

@@ -1,4 +1,4 @@
-[返回](./README.md)
+[返回](README.md)
 
 精选面试题
 
