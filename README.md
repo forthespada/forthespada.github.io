@@ -82,8 +82,6 @@ Doc/Other/校招总结/阿秀朋友百折不挠/阿秀朋友百折不挠.md
 <div align="left">
     <p>如果本网站对您有所帮助的话，能给本项目一个<strong>小小的star</strong>就非常感激了！<strong><a href="https://github.com/forthespada/InterviewGuide">点我直达仓库</a></strong></p>
 </div>
-
-
 <div align="left">
     <p>一个好的项目离不开每一位小伙伴的支持与帮助，如果阿秀整理的个人笔记帮助你拿到了不错的offer的话，可以请秀哥吃包辣条~</p>
 <figure class="half">
