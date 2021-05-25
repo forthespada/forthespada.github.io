@@ -10,7 +10,7 @@
 
 [关于阿秀](Doc/Other/ContactMe.md)
 
-[友情赞赏](./README.md#money)
+[友情赞助](./README.md#money)
 
 [致谢](Doc/致谢.md)
 
