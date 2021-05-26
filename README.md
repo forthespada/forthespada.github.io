@@ -22,8 +22,8 @@
 - **算法**
   - [算法基础](Doc/Knowledge/算法/算法基础/十大排序.md)
   - [高频面试真题](Doc/Knowledge/算法/精选高频面试题/精选高频面试题.md)
-  - [带你快速刷完67道剑指offer](Doc/Knowledge\算法/带你快速刷完67道剑指offer/README.md)
-  - [精选300+LeetCode题解](Knowledege/算法/)
+  - [带你快速刷完67道剑指offer](Doc/Knowledge/算法/带你快速刷完67道剑指offer/README.md)
+  - [精选300+LeetCode题解](Doc/Knowledge/算法/LeetCode题解/README.md)
   
 - **[操作系统](Doc/Knowledge/操作系统/操作系统.md)**
 
