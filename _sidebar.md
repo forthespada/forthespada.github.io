@@ -12,7 +12,9 @@
 
 [关于阿秀](Doc/Other/ContactMe.md)
 
-[友情赞助](./README.md#money)
+[友情赞助](Doc/Other/Donate.md)
+
+[网站迭代](Doc/Other/网站迭代更新记录.md)
 
 [致谢](Doc/致谢.md)
 

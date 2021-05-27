@@ -1,4 +1,4 @@
-<h1 align="center">📔 阿秀的计算机求职笔记</h1>
+<h1 align="center">📔 阿秀的校招笔记</h1>
 
 
 
@@ -75,20 +75,9 @@ Doc/Other/校招总结/阿秀朋友百折不挠/阿秀朋友百折不挠.md
 
 **🐼 [关于阿秀](Doc/Other/ContactMe.md)**
 
+**🎅 [友情赞助](Doc/Other/Donate.md)**
 
-
-**🎅 友情赞助**
-
-<div align="left">
-    <p>如果本网站对您有所帮助的话，能给本项目一个<strong>小小的star</strong>就非常感激了！<strong><a href="https://github.com/forthespada/InterviewGuide">点我直达仓库</a></strong></p>
-</div>
-<div align="left">
-    <p>一个好的项目离不开每一位小伙伴的支持与帮助，如果阿秀整理的个人笔记帮助你拿到了不错的offer的话，可以请秀哥吃包辣条~</p>
-<figure class="half">
-    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/支付宝赞赏4.png" style="right;zoom: 55%;" />
-                                                                                                                        <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/微信赞赏4.png"  style="right;zoom: 52%;" />
-                                                                                                                         </figure></div>
-
+**📋  [网站迭代](Doc/Other/网站迭代更新记录.md)**
 
 **🥉 [致谢](Doc/致谢.md)**
 
