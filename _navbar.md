@@ -1,12 +1,14 @@
 - [返回主页](README.md)
 
+<!-- 
+
 - [校招准备](./README.md#校招准备)
   - [简历很重要](Doc/Prepare/简历很重要.md)
   - [了解校招](Doc/Prepare/了解校招.md)
   - [C++岗位](Doc/Prepare/C++岗位.md)
   
 - [知识储备](./README.md#知识储备)
-  - [**C/C++**](Doc/Knowledge/C++/README.md)
+  - [C/C++](Doc/Knowledge/C++/README.md)
   - [算法](./#算法)
   - [操作系统](Doc/Knowledge/操作系统/操作系统.md)
   - [计算机网络](Doc/Knowledge/计算机网络/计算机网络.md)
@@ -24,8 +26,7 @@
 
 - [关于阿秀](Doc/Other/ContactMe.md)
 
-  
+  -->
 
   
-
 
