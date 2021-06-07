@@ -12,7 +12,7 @@
 
 **🚀 知识储备**
 
-- [**C/C++**](Doc/Knowledge/C++/README.md)
+- [C/C++](Doc/Knowledge/C++/README.md)
   - [基础语法](Doc/Knowledge/C++/基础语法/基础语法.md)
   - [内存管理](Doc/Knowledge/C++/内存管理/内存管理.md)
   - [C++11新标准](Doc/Knowledge/C++/C++11新标准/C++11新标准.md)
@@ -23,7 +23,7 @@
   - [算法基础](Doc/Knowledge/算法/算法基础/十大排序.md)
   - [高频面试真题](Doc/Knowledge/算法/精选高频面试题/精选高频面试题.md)
   - [带你快速刷完67道剑指offer](Doc/Knowledge/算法/带你快速刷完67道剑指offer/README.md)
-  - [精选300+LeetCode题解](Doc/Knowledge/算法/LeetCode题解/README.md)
+  - [精选力扣300+道算法题](Doc/Knowledge/算法/LeetCode题解/README.md)
   
 - **[操作系统](Doc/Knowledge/操作系统/操作系统.md)**
 
@@ -37,7 +37,7 @@
 
 - **[技术面与HR面](Doc/Knowledge/技术面与HR面/技术面与HR面.md)**
 
-- **[未完待续.....](#secondninth)**
+- **[未完待续.....](Doc/Knowledge/未完待续/README.md)**
 
 **📝 免费资源**
 
@@ -77,7 +77,7 @@ Doc/Other/校招总结/阿秀朋友百折不挠/阿秀朋友百折不挠.md
 
 **🎅 [友情赞助](Doc/Other/Donate.md)**
 
-**📋  [网站迭代](Doc/Other/网站迭代更新记录.md)**
+**📋   [网站迭代](Doc/Other/网站迭代更新记录.md)**
 
-**🥉 [致谢](Doc/致谢.md)**
+**🥉 [致谢](Doc/Other/致谢.md)**
 

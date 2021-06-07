@@ -10,7 +10,7 @@
 
 刷题网站推荐：[力扣网](https://www.nowcoder.com/ta/coding-interviews?from=cyc_github)、[牛客网](https://leetcode-cn.com/problemset/lcof/)
 
-因本人主要在牛客网上刷的剑指offer，所以本专栏题目顺序与牛客网顺序保持一致。
+因本人主要在牛客网上刷的剑指offer，所以本专栏题目顺序与牛客网顺序保持一致，每道题目下也给出了相应的牛客网链接。
 
 **本专栏介绍**
 
