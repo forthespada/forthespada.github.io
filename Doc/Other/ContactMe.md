@@ -25,7 +25,9 @@
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@3.8/202105/进大厂公众号.png" style="zoom:65%;" />
 </div>
-我觉得**人生最可怕的就是在别人放弃你之前，你却先放弃了自己**。
+
+
+**人生最可怕的就是在别人放弃你之前，你却先放弃了自己**。
 
 **你只管努力，剩下的交给时间就好，我就是活生生的例子💖**
 
