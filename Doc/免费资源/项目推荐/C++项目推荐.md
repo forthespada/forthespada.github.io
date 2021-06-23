@@ -75,11 +75,9 @@ github地址：https://github.com/youngyangyang04/Skiplist-CPP
 
 ##### **下载方式**
 
-需要该项目的的小伙伴可以去阿秀学长的个人公众号「拓跋阿秀」或者扫描下方二维码，回复「**跳表**」即可获取，我已经下载好啦。
+需要该项目的的小伙伴可以微信搜索**拓跋阿秀**或者扫描下方二维码，回复「**跳表**」即可获取，我已经下载好啦。
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/公众号：拓跋阿秀.png" style="zoom:50%;" /></div>
-
-
 #### 2、推荐其余的C++项目
 
 我这两天又花时间整理了一下，推荐几个个人觉得还不错的 C++项目吧，由易到难。
@@ -173,11 +171,9 @@ MyTinySTL这个项目把我想的做了，它是基于 C++11的tinySTL，其中�
 
 各位可以去github上直接克隆，如果觉得麻烦阿秀已经把上述六个项目下载打包好了。
 
-需要该压缩包的的小伙伴可以去阿秀学长的个人公众号「**拓跋阿秀**」或者扫描下方二维码，回复「**项目**」即可获取。
+需要该项目合集的的小伙伴微信搜索“**拓跋阿秀**或者扫描下方二维码，回复「**项目**」即可获取。
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/公众号：拓跋阿秀.png" style="zoom:50%;" /></div>
-
-
 
 
 
