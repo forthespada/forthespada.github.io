@@ -1,6 +1,5 @@
 <h1 align="center">📔 阿秀的校招笔记</h1>
 
-
 **🍵 校招准备**
 
 - [简历很重要](Doc/Prepare/简历很重要.md)
@@ -78,7 +77,6 @@ Doc/Other/校招总结/阿秀朋友百折不挠/阿秀朋友百折不挠.md
 
 -->
 
-<p id="money"></p>
 **🎅 [友情赞助](Doc/Other/Donate.md)**
 
 **📋   [网站迭代](Doc/Other/网站迭代更新记录.md)**
