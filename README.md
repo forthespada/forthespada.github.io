@@ -1,5 +1,6 @@
 <h1 align="center">📔 阿秀的校招笔记</h1>
 
+
 **🍵 校招准备**
 
 - [简历很重要](Doc/Prepare/简历很重要.md)
@@ -44,6 +45,8 @@
 - [LeetCode刷题笔记(支持Java、C++、Golang三种语言)](Doc/免费资源/力扣刷题笔记/力扣刷题笔记.md)
 - [C++项目推荐](Doc/免费资源/项目推荐/C++项目推荐.md)
 
+🍖 **[校招交流](Doc/Other/招聘交流.md)**
+
 **🐝 他人经验**
 
 - [阿秀个人的秋招之路总结（已拿抖音研发岗SP)](https://mp.weixin.qq.com/s/AYe3tnuOmqR4jdDndDGW-Q)
@@ -62,12 +65,16 @@ Doc/Other/校招总结/阿秀朋友百折不挠/阿秀朋友百折不挠.md
 
 -->
 
+
+
 **🔨 大厂内推**
 
 - [内推的重要性](Doc/Other/内推信息/内推信息.md#importance)
 - [字节跳动](Doc/Other/内推信息/内推信息.md#字节跳动)
 - [携程](Doc/Other/内推信息/内推信息.md#携程)
 - [其余公司](Doc/Other/内推信息/内推信息.md#其余公司)
+
+
 
 **🐼 [关于阿秀](Doc/Other/ContactMe.md)**
 
