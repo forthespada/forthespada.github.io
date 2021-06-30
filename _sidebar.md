@@ -1,10 +1,12 @@
-[返回首页](README.md)
+[返回首页](README.md#阿秀的校招笔记)
 
-[校招准备](./README.md#校招准备)
+[校招准备](Doc/Prepare/简历很重要.md)
 
 [知识储备](./README.md#知识储备)
 
-[免费资源](./README.md#免费资源)
+[精品资源](Doc/免费资源/Download.md)
+
+[求职交流](Doc/Other/招聘交流.md)
 
 [他人经验](./README.md#他人经验)
 
@@ -13,8 +15,4 @@
 [关于阿秀](Doc/Other/ContactMe.md)
 
 [友情赞助](Doc/Other/Donate.md)
-
-[网站迭代](Doc/Other/网站迭代更新记录.md)
-
-[致谢](Doc/致谢.md)
 
