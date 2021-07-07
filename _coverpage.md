@@ -2,7 +2,7 @@
 
 ![icon](icon.ico)
 
-<p align="center" style="font-size:50px;color:black">阿秀的校招笔记</p>
+<p align="center" style="font-size:50px;color:black">阿秀的求职笔记</p>
 
 <p align="right" style="font-size:15px">它还有个名字叫做《逆袭进大厂》❤</p>
 <img src="https://img.shields.io/github/stars/forthespada/InterviewGuide" data-origin="https://img.shields.io/github/stars/forthespada/InterviewGuide" alt=""> 
