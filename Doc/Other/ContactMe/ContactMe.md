@@ -7,7 +7,7 @@
 
 阿秀，2021 届计算机研究生，本硕均于普通双非学校就读。
 
-2020年秋招笔试过59场，面试过30余家企业，其中百度、阿里、腾讯、美团、滴滴、字节跳动、猿辅导、华为等都面试过，最后顺利拿下**华为、百度、字节跳动SP** 等6个中大厂的 offer，也是[**牛客网 C++ 校招求职专刊**](https://www.nowcoder.com/tutorial/10043/index)的作者。
+2020年秋招笔试过59场，面试过30余家企业，其中百度、阿里、腾讯、美团、滴滴、字节跳动、猿辅导、华为等都面试过，最后顺利拿下**华为、百度、字节跳动SP** 等6个中大厂的 offer，也是<a target="_blank" style="font-weight:bold; color:#4169E1;text-decoration:underline;" href="https://www.nowcoder.com/tutorial/10043/index">牛客网 C++ 校招求职专刊</a>的作者。
 
 后来将自己的秋招笔记整理为《[**逆袭进大厂**](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MDU0ODM3MA==&action=getalbum&album_id=1728595536544366595&uin=&key=&devicetype=Windows+10+x64&version=6302019a&lang=zh_CN&ascene=7&fontgear=2)》系列，成功帮助不少小伙伴上岸互联网大厂了，比如腾讯、百度、字节跳动等。
 
