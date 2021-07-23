@@ -15,7 +15,7 @@
 
 在阿秀本科四年 + 研究生三年，一共七年的计算机学习生涯中**慢慢收集了不少好的计算机学习资源**，本着 ~~白嫖~~ 开源分享的精神，现在把它们分享出来！
 
-七年全部收藏都在这里了，<a target="_blank" style="font-weight:bold; color:#4169E1;text-decoration:underline;" href="Doc/免费资源/Download">点此白嫖</a>。
+七年全部收藏都在这里了，<a target="_blank" style="font-weight:bold; color:#4169E1;text-decoration:underline;" href="Doc/免费资源/Download.md">点此白嫖</a>。
 
 <p id="作为一名从"></p>
 
