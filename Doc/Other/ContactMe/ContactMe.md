@@ -44,12 +44,42 @@
 
 - 如果某个资源链接失效，可以来告诉阿秀；
 - 如果你对我整理的某个知识点感到困惑或者有你自己的看法，欢迎来找我讨论或者于<a target="_blank" style="font-weight:bold; color:#4169E1;text-decoration:underline;" href="https://github.com/forthespada/InterviewGuide/issues">本网站仓库提交PR</a>；
-- 如果你有学习、考研、找工作等方面的困扰可以来找阿秀聊聊，免费答疑；
-- 个人微信：**coderxiu1**，扫描下方二维码即可添加
+- 如果你有学习、考研、找工作或者offer不知道如何抉择等方面的困扰可以来找阿秀聊聊，免费答疑；
+- 个人微信：**coderxiu1**，或者扫描下方二维码即可添加
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3@1.0/202107/%E9%98%BF%E7%A7%80%E4%BA%8C%E5%8F%B7%E7%BA%AF%E5%BE%AE%E4%BF%A1.jpg" style="zoom:50%;" />
 </div>
+**注意**
+
+1、我自己也在工作，自己这边的工作强度属实不小。
+
+我还在抖音这边搬砖写码，可能添加好友通过不及时。
+
+麻烦小伙伴稍等一会，每天我都会专门抽出一小时时间来进行粉丝答疑。
+
+2、如果我通过好友了，不要问”在吗“/”秀哥在吗“这种话，有问题直接问就好，最大程度上节省双方时间！谢谢啦！
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 **知乎**：<a target="_blank" style="font-weight:bold; color:#4169E1;text-decoration:underline;" href="https://www.zhihu.com/people/tuo-ba-a-xiu">拓跋阿秀</a>(坚持输出干货，点击来撩)
