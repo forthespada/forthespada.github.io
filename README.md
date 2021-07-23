@@ -28,13 +28,13 @@
   
 - **[操作系统](Doc/Knowledge/操作系统/操作系统.md#进程线程和协程的区别和联系)**
 
-- **[计算机网络](Doc/Knowledge/计算机网络/计算机网络.md)**
+- **[计算机网络](Doc/Knowledge/计算机网络/计算机网络.md#偶爱死的七层模型分别是各自的功能是什么)**
 
 - **数据库**
   - [MySQL](Doc/Knowledge/数据库/MySQL/MySQL.md#数据库第一部分)
   - [Redis](Doc/Knowledge/数据库/Redis/Redis.md#数据库第二部分)
   
-- **[智力&情景题](Doc/Knowledge/智力&情景题/智力&情景题.md)**
+- **[智力&情景题](Doc/Knowledge/智力&情景题/智力&情景题.md#智力题情景题)**
 
 - **[技术面与HR面](Doc/Knowledge/技术面与HR面/技术面与HR面.md#技术面与面)**
 
