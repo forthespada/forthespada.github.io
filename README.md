@@ -55,6 +55,7 @@
 
 - [阿秀个人的秋招之路总结（已拿抖音研发岗SP)](https://mp.weixin.qq.com/s/AYe3tnuOmqR4jdDndDGW-Q)
 - [双非二本到字节跳动SP？逆袭？](https://mp.weixin.qq.com/s/vSzbITIYEVQNE1LgIzmPJg)
+- [三个多月、40余场面试浓缩为6000字](https://mp.weixin.qq.com/s/pRVHwIiKlDGZ0BfZiXZVgA)
 - [双非本科大三学弟连斩腾讯字节](https://mp.weixin.qq.com/s/IsuN7Wo8AyC_FFwXJdU7fg)
 - [阿秀朋友百折不挠，最终成功上岸](https://mp.weixin.qq.com/s/MsaAr1ofstCgxqs749W1wg)
 - [一位大二非科班学弟，从开始刷题到获得成就感的两周](https://mp.weixin.qq.com/s/k1X7V9Ev8mIjENuAlnO64w)
