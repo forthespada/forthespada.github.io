@@ -72,7 +72,7 @@ Doc/Other/校招总结/阿秀朋友百折不挠/阿秀朋友百折不挠.md
 
 **🔨 大厂内推**
 
-- <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[为什么我建议你尽量内推](Doc/Other/内推信息/内推信息.md#importance)</font>
+- <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[为什么我建议你尽量内推](Doc/Other/内推信息/内推信息.md#大厂内推)</font>
 - <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[字节跳动](Doc/Other/内推信息/内推信息.md#字节跳动)</font>
 - <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[携程](Doc/Other/内推信息/内推信息.md#携程)</font>
 - <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[其余公司](Doc/Other/内推信息/内推信息.md#其余公司)</font>
