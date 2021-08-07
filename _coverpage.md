@@ -6,21 +6,22 @@
 
 <p align="right" style="font-size:15px">它还有个名字叫做《逆袭进大厂》❤</p>
 <div align="center"> 
-  <img src="https://badgen.net/badge/%E6%8E%A8%E8%8D%90%E6%8C%87%E6%95%B0/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85" data-origin="https://img.shields.io/github/forks/forthespada/InterviewGuide" alt="推荐指数：*****">
+  <img src="https://img.shields.io/badge/%E6%8E%A8%E8%8D%90%E6%8C%87%E6%95%B0-⭐⭐⭐⭐⭐-blue.svg" data-origin="https://img.shields.io/github/forks/forthespada/InterviewGuide" alt="推荐指数：*****">
   <img src="https://img.shields.io/github/stars/forthespada/InterviewGuide" data-origin="https://img.shields.io/github/stars/forthespada/InterviewGuide" alt="喜欢数">
   <img src="https://img.shields.io/github/forks/forthespada/InterviewGuide" data-origin="https://img.shields.io/github/forks/forthespada/InterviewGuide" alt="收藏数">
-<img src="https://img.shields.io/badge/version-v4.0.0-green.svg" data-origin="https://img.shields.io/badge/version-v4.0.0-green.svg" alt="version:4.0">
+<img src="https://img.shields.io/badge/version-v4.0-blue.svg" data-origin="https://img.shields.io/badge/version-v4.0.0-green.svg" alt="version:4.0">
 </div>
 
 
 
 
- 
-
-
-
 
  
+
+
+
+
+
 
 👀 本站总访问量：<span id="busuanzi_value_site_pv"></span> 次
 </span>
