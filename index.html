@@ -18,15 +18,20 @@
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/css/theme-simple.css">
 
  <style>
-  .advertisement {
+   /*html, body { height:100%; overflow:auto; }*/
+
+   html,body{ overflow-y:scroll;}
+   html,body{ overflow:scroll; min-height:101%;}
+   html{ overflow:-moz-scrollbars-vertical;}
+   .advertisement {
     position: absolute;
     right: 1px;
-    top: 60px;
-    width: 100px;
-    box-shadow: -1px 0 0px 0px #c5ebda;
+    top: 70px;
+    width: 200px;
+    /*box-shadow: -1px 0 0px 0px #fff;*/
     padding: 0.5px;
     z-index: 99;
-    background-color: #fff;
+/*    background-color: #fff;*/
     text-align: center;
   }
 
@@ -44,7 +49,6 @@
 
 
 
-  
 </style>
 
 
@@ -53,38 +57,38 @@
 <body>
 
   <div id="app">Loading.....</div>
-<!--
-
-  <div class="aside_container">
-    <div class="advertisement">
-      <div class="Tencent_code">
-         <h4>个人微信</h4> 
-        <p style="font-size: 12px;">欢迎加入计算机求职百人交流群，备注"校招"或者"社招"</p>
-        <img src="./Doc/Picture/阿秀个人微信无汉字.png" alt="拓跋阿秀" />
+    <div  class="aside_container" >
+      <div class="advertisement">
+        <div id="advertisementShow">
+          <div style="float: left; width: 20%; margin: 40% 0">
+           <button id="interviewBtn" onclick="showAdverseMent()">
+             隐<br>藏
+           </button>
+          </div>
+          <div style="float: left;width: 80%">
+           <p style="font-size: 12px;color:red">欢迎加入计算机百人求职交流群，备注"校招"或"社招"</p>
+           <img src="./Doc/Picture/阿秀三号纯微信.jpg" alt="拓跋阿秀" />
+          </div>
+        </div>
+        <div id="advertisementNone" style="float: right;width: 15%; display: none">
+          <button id="interviewBtn2" onclick="displayAdverseMent()">
+            求<br>职<br>面<br>试<br>交<br>流<br>群
+          </button>
+        </div>
       </div>
     </div>
-</div>	
-	-->
-	
-	
-<!--
-   <div class="aside_container">
-      <div class="advertisement">
-        <div class="Tencent_code">
-          <p style="font-size: 12px;">欢迎加入百人求职交流群，备注"校招"或者"社招"</p>
-          <img src="./Doc/Picture/阿秀个人微信无汉字.png" style="zoom: 30%;" alt="拓跋阿秀" />
-		
-      </div>
-   </div>
-</div>
--->
-
-
-
-
-
 
   <script>
+    function showAdverseMent() {
+      advertisementShow.style.display = "none";
+      advertisementNone.style.display = "block";
+
+    }
+    function displayAdverseMent() {
+      advertisementNone.style.display = "none";
+      advertisementShow.style.display = "block";
+    }
+
     window.$docsify = {
 	  themeColor: '#fb5555',
 	  name: '📔 阿秀的校招笔记',
@@ -150,7 +154,6 @@
   <script src="https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/src/js/prism-go.js"></script>
   <script src="https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/src/js/prism-matlab.js"></script>
   -->
- 
   <script src="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/prism-c.js"></script>
   <script src="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/prism-cpp.js"></script>
   <script src="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/prism-css.js"></script>
@@ -190,7 +193,6 @@
 
   <!-- mouse click -->
   <script src="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/click_heart.js"></script>
-  
   <!-- 添加网站运行时间统计 -->
   <script language=javascript>
     function siteTime() {
@@ -215,7 +217,7 @@
        minutes - 0-59之间的整数，做为date对象的分钟数
        seconds - 0-59之间的整数，做为date对象的秒数
        microseconds - 0-999之间的整数，做为date对象的毫秒数 */
-       var t1 = Date.UTC(2021, 05, 20, 00, 00, 00); //北京时间2021-05-20 
+       var t1 = Date.UTC(2021, 05, 20, 00, 00, 00); //北京时间2021-05-20
        var t2 = Date.UTC(todayYear, todayMonth, todayDate, todayHour, todayMinute, todaySecond);
        var diff = t2 - t1;
        var diffYears = Math.floor(diff / years);
@@ -227,10 +229,10 @@
     }
     siteTime();
 </script>
-  
 
 
-<!-- 访问量统计 
+
+<!-- 访问量统计
 <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 -->
@@ -238,7 +240,7 @@
 
 <script async src="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/js/busuanzi.pure.mini.js"></script>
 
-<!-- 引入 gitalk留言功能 
+<!-- 引入 gitalk留言功能
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/css/gitalk.css">
 <script    src="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/js/gitalk.js"></script>
 <script src="https://cdn.jsdelivr.net/gh/forthespada/forthespada.github.io@master/plugin/js/gitalk.min.js"></script>
