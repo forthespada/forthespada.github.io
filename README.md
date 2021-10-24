@@ -1,7 +1,13 @@
 <p id="阿秀的校招笔记"></p>
 <h1 align="center">📔 阿秀的求职笔记</h1>
 
->该求职资料适用于**互联网校招求职应届生**以及**毕业三年内的互联网社招同学~** 作者：[阿秀](Doc/Other/ContactMe/ContactMe.md#关于阿秀)
+>1、该求职资料适用于**互联网校招求职应届生**以及**毕业三年内的互联网社招同学~** 作者：[阿秀](Doc/Other/ContactMe/ContactMe.md#关于阿秀)
+>
+>2、附赠两个云服务器优惠信息：
+>
+>【阿里云】云服务器狂欢特惠，**2核2G5M** 轻量级应用服务器 **60** 元/年【阿秀目前使用的】 [点我传送](https://www.aliyun.com/minisite/goods?userCode=z83rmooz)
+>
+>【腾讯云】云产品限时秒杀，爆款 **2核4G8M** 云服务器，首年**74**元/年【阿秀强烈推荐】 [点我进入](https://curl.qcloud.com/12W5F0cw)
 
 🤔 <font style="font-weight:bold; color:#4169E1;text-decoration:underline;" target="_blank">[笔记由来](Doc/Other/ContactMe/ContactMe.md#关于阿秀)</font>
 
