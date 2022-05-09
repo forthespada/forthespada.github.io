@@ -1,7 +1,7 @@
 <p id="阿秀的校招笔记"></p>
-<h1 align="center">📔 阿秀的求职笔记</h1>
+<h1 align="center">📔 阿秀的学习笔记</h1>
 
->[阿秀](Doc/Other/ContactMe/ContactMe.md#关于阿秀) 温馨提示：该求职资料适用于**互联网校招求职应届生**以及**毕业三年内的互联网社招同学~**
+>[阿秀](Doc/Other/ContactMe/ContactMe.md#关于阿秀) 温馨提示：该资料适用于**互联网校招求职应届生**以及**毕业三年内的互联网社招同学~**
 >
 ><!-- 
 >
